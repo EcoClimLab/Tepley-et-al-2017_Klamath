@@ -1,0 +1,74 @@
+Code,Species,Synonym,CommonName,Type
+ABCO,Abies concolor,NA,White fir,Conifer
+CADE27,Calocedrus decurrens,NA,Incense-cedar,Conifer
+PIAT,Pinus attenuata,NA,Knobcone pine,Conifer
+PILA,Pinus lambertiana,NA,Sugar pine,Conifer
+PIMO,Pinus monticola,NA,Western white pine,Conifer
+PIPO,Pinus ponderosa,NA,Ponderossa pine,Conifer
+PINUS,"Pinus, not identified to species",NA,"Pine, not identified to species",Conifer
+PSME,Pseudutsuga menziesii,NA,Douglas-fir,Conifer
+UNKC,Unknown conifer,NA,Unknown conifer,Conifer
+ACMA3,Acer macrophyllum,NA,Bigleaf maple,Broadleaf tree
+ALRU,Alnus rubra,NA,Red alder,Broadleaf tree
+ARME,Arbutus menziesii,NA,Pacific madrone,Broadleaf tree
+CHCH7,Chrysolepis chrysophylla,NA,Giant chinquapin,Broadleaf tree
+CONU4,Cornus nuttallii,NA,Pacific dobwood,Broadleaf tree
+LIDE3,Lithocarpus densifolius,Notholithocarpus densiflorus,Tanoak,Broadleaf tree
+QUCH2,Quercus chrysolepis,NA,Canyon live oak,Broadleaf tree
+QUGA,Quercus garryana,NA,Oregon white oak,Broadleaf tree
+QUKE,Quercus kelloggii,NA,California black oak,Broadleaf tree
+QUVA,Quercus vacciniifolia,Quercus vaccinifolia,Huckleberry oak,Broadleaf tree
+UMCA,Umbellularia californica,NA,California laurel,Broadleaf tree
+UNKB,Unknown broadleaf,NA,Unknown broadleaf,Broadleaf tree
+CHEA,???,NA,Unknown species code,Shrub
+PAMY,???,NA,Unknown species code,Shrub
+ACCI,Acer circinatum,NA,Vine maple,Shrub
+ARPA6,Acrtostaphylos patula,NA,Greenleaf manzanita,Shrub
+AMAL2,Amelanchier alnifolia,NA,Pacific serviceberry,Shrub
+ARCO3,Arctostaphylos columbiana,NA,Hairy manzanita,Shrub
+ARVI4,Arctostaphylos viscida,NA,Whiteleaf manzanita,Shrub
+MAAQ2,Berberis aquifolium,Mahonia aquifolium,Hollyleaved barberry,Shrub
+MANE,Berberis nervosa,Mahonia  nervosa,Cascade barberry,Shrub
+CECO,Ceanothus cordulatus,NA,Whitehorn ceanothus,Shrub
+CECU,Ceanothus cuneatus,NA,Buckbrush,Shrub
+CEIN,Ceanothus integerrimus,NA,Deerbrush,Shrub
+CEPR,Ceanothus prostratus,NA,Prostrate ceanothus,Shrub
+CESA,Ceanothus sanguineus,NA,Redstem ceanothus,Shrub
+CETH,Ceanothus thyrsiflorus,NA,Blueblossom,Shrub
+CEVE,Ceanothus velutinus,NA,Snowbush,Shrub
+CEOC,Cercis occidentalis ,NA,California redbud,Shrub
+COSE,Cornus sessilis,NA,Blackfruit dogwood,Shrub
+COCOC,Corylus cornuta,NA,Beaked hazlenut/western hazlenut,Shrub
+GAFR,Garrya fremontii,NA,Bearbrush,Shrub
+GASH,Gaultheria shallon,NA,Salal,Shrub
+HEAR,Heteromeles arbutifolia,NA,Toyon,Shrub
+HODI,Holodiscus discolor,NA,Oceanspray,Shrub
+KECO,Keckiella corymbosa,NA,Redwood keckiella,Shrub
+LOCI,Lonicera ciliosa,NA,Orange honeysuckle,Shrub
+LOHI2,Lonicera hispidula,NA,Pink honeysuckle,Shrub
+LOHE,Lonicera spp.,NA,Honeysuckle,Shrub
+PAMY,Unknown shrub (only recorded in JCK-01),NA,Unknown shrub,Shrub
+PHLE,Philadelphus lewisii,NA,Lewis' mock orange,Shrub
+PHMA,Physocarpus malvaceus,NA,Mallow ninebark,Shrub
+PREM,Prunus emarginata,NA,Bitter cherry,Shrub
+FRCA,Rhamnus californica,Frangula californica,California buckthorn,Shrub
+RHPU,Rhamnus purshiana,NA,Cascara buckthorn,Shrub
+RIRO,Ribes roezlii,NA,Sierra gooseberry,Shrub
+RISA,Ribes sanguineum,NA,Redflower currant,Shrub
+ROGY,Rosa gymnocarpa,NA,Dwarf rose,Shrub
+RUAR,Rubus bifrons,Rubus armeniacus,Himalayan blackberry,Shrub
+RULE,Rubus leucodermis,NA,Western raspberry,Shrub
+RUPA,Rubus parviflorus,NA,Thimbleberry,Shrub
+RUUR,Rubus ursinus,NA,California blackberry,Shrub
+SALIX,Salix spp.,NA,Willow,Shrub
+SAME,Sambucus nigra ssp. canadensis,Sambucus mexicana,Elder,Shrub
+SACE3,Sambucus nigra ssp. cerulea,Sambucus cerulea,Blue elder,Shrub
+SARA,Sambucus racemosa,NA,Red elder,Shrub
+SYAL,Symphoricarpos albus,NA,Common snowberry,Shrub
+SYMO,Symphoricarpos mollis,NA,Creeping snowberry,Shrub
+TODI,Toxicodendron diversilobum,NA,Poison oak,Shrub
+VACA,Vaccinium cespitosum,Vaccinium caespitosum,Dwarf blueberry,Shrub
+VAOV2,Vaccinium ovatum,NA,California huckleberry,Shrub
+VAPA,Vaccinium parvifolium,NA,Red huckleberry,Shrub
+NONE,None,NA,No plants present ,None
+UNK,Unknown,NA,Unknown,None
