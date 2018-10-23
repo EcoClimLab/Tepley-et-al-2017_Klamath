@@ -10,3 +10,7 @@ Tepley, A, Thompson JR, Epstein HE, Anderson-Teixeira KJ. (2017) [Vulnerability 
 Alan J. Tepley (@tepleya)
 
 Kristina J. Anderson-Teixeira (@teixeirak)
+
+## Funding
+
+National Science Foundation. Grant Number: DEB‐1353301
